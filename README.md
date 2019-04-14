@@ -2,10 +2,14 @@
 
 Calcul du salaire des employés d'un service ou d'une entreprise
 
-voici les formules de calcul de salaire des employés
+voici les formules de calcul de salaire des employés:
+
 -Le Directeur: Indice x salire de base + Bonus
+
 -Le Manager: Indice x salaire de base + (prime-impôt)
+
 -Commerciaux: PrimeVente + 10000
+
 -Ouvriers: Saliaire x NbreHeure + 5000
 
 On va utilise la conception des Patterns pour faire l'exercice. Dans cet exercie, 
